@@ -272,7 +272,7 @@ Samples['VBS_SSWW_TT'] = {
     'nanoAOD' :'/VBS-SSWW_PolarizationTT_TuneCP5_13p6TeV_madgraph-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v3/NANOAODSIM'
 }
 
-Samples['VBS_SSWW_WWCM_TL'] = {
+Samples['VBS_SSWW_WWCM_TT'] = {
     'nanoAOD' :'/VBS-SSWW_PolarizationTT_WWCM_TuneCP5_13p6TeV_madgraph-pythia8/Run3Summer22EENanoAODv12-130X_mcRun3_2022_realistic_postEE_v6-v2/NANOAODSIM'
 }
 
